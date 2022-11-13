@@ -30,4 +30,4 @@
     </script>
 
 ### Result
-<img src="Example.png" width="400">
+<img src="Example.png" width="400" style="border: 1px solid grey">
