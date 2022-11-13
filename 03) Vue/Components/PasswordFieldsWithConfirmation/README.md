@@ -31,3 +31,7 @@
 
 ### Result
 <img src="Example.png" width="400" style="border: 1px solid grey">
+
+### Additional optional parameters (with example values)
+- input_size_class="input-md" (Default: "input-sm")
+- gap_to_bottom_class="mb-4" (Default: """)
