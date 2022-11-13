@@ -1,4 +1,4 @@
-Example integration:
+### Example integration:
 
     <PasswordFieldsWithConfirmation
     v-model:password="form.password"
@@ -28,3 +28,6 @@ Example integration:
     let password_valid = ref(false);
     ...
     </script>
+
+### Result
+<img src="Example.png" width="400">
